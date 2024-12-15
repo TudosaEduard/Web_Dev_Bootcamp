@@ -48,7 +48,7 @@
     * CSS : is responsible for the style of the website.
     * JavaScript : is responsible for the behavior of the website.
 
-    <img src="images/website_structure.png" alt="Website Structure" width="200" height="200">
+<img src="images/website_structure.png" alt="Website Structure" width="200" height="200">
 
 ## 📌 HTML <a name = "html"></a>
 
