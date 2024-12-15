@@ -36,7 +36,19 @@
 
 ## 📌 Fullstack Web Development Fundamentals <a name = "web_dev"></a>
 
-This is a list of topics that will be covered in the Web Development Bootcamp.
+# 1. The Internet
+    * What is the internet? : A long piece of wire that connects us to the world and all the websites we visit (connect all the computers and transfer data).
+    * Service providers: their role is to help you get the information you need 24/7.
+    * Client(IP address) -> Internet service provider -> DNS(Domain Name System) -> Server -> Website -> Client
+
+# 2. Websites
+    * What is a website? : A collection of web pages and resources that are made available on the internet.
+    * HTML + CSS + JavaScript
+    * HTML : is responsible for the structure of the website.
+    * CSS : is responsible for the style of the website.
+    * JavaScript : is responsible for the behavior of the website.
+
+## 📌 HTML <a name = "html"></a>
 
 <!-- ## 🏁 Getting Started <a name = "getting_started"></a>
 
