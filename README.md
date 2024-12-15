@@ -41,6 +41,8 @@
     * Service providers: their role is to help you get the information you need 24/7.
     * Client(IP address) -> Internet service provider -> DNS(Domain Name System) -> Server -> Website -> Client
 
+<img src="resources/images/internet_service.png" alt="Internet data flow">
+
 # 2. Websites
     * What is a website? : A collection of web pages and resources that are made available on the internet.
     * HTML + CSS + JavaScript
