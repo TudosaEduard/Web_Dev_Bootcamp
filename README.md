@@ -59,9 +59,9 @@ What is HTML? : Hypertext Markup Language -> HTML is the standard markup languag
 ### HTML Tags : 
 
     - <p> : Paragraph
-    - <h1> : Heading 1
+    - <h1> : Heading 1 (!! there can be only one h1 tag per page)
     - <h2> : Heading 2
-    - <h3> : Heading 3
+    - <h3> : Heading 3 (!! do not skip a level)
     - <h4> : Heading 4
     - <h5> : Heading 5
     - <h6> : Heading 6
@@ -85,6 +85,9 @@ What is HTML? : Hypertext Markup Language -> HTML is the standard markup languag
     - <button> : Button
     - <div> : Div
     - <span> : Span
+    - <header> : Header   
+
+### Useful links :
 
 [HTML Headings](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements)
 
