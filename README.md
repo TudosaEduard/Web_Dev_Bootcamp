@@ -56,6 +56,10 @@
 
 What is HTML? : Hypertext Markup Language -> HTML is the standard markup language for creating web pages.
 
+### Work folder:
+
+- [Here!](exercises/html/)
+
 ### HTML Tags : 
 
     - <p> : Paragraph
