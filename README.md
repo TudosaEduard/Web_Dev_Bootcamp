@@ -36,14 +36,14 @@
 
 ## 📌 Fullstack Web Development Fundamentals <a name = "web_dev"></a>
 
-# 1. The Internet
+### 1. The Internet
     * What is the internet? : A long piece of wire that connects us to the world and all the websites we visit (connect all the computers and transfer data).
     * Service providers: their role is to help you get the information you need 24/7.
     * Client(IP address) -> Internet service provider -> DNS(Domain Name System) -> Server -> Website -> Client
 
 <img src="resources/images/internet_service.png" alt="Internet data flow">
 
-# 2. Websites
+### 2. Websites
     * What is a website? : A collection of web pages and resources that are made available on the internet.
     * HTML + CSS + JavaScript
     * HTML : is responsible for the structure of the website.
@@ -53,6 +53,40 @@
 <img src="resources/images/website_structure.png" alt="Website Structure">
 
 ## 📌 HTML <a name = "html"></a>
+
+What is HTML? : Hypertext Markup Language -> HTML is the standard markup language for creating web pages.
+
+### HTML Tags : 
+
+- <p> : Paragraph
+- <h1> : Heading 1
+- <h2> : Heading 2
+- <h3> : Heading 3
+- <h4> : Heading 4
+- <h5> : Heading 5
+- <h6> : Heading 6
+- <b> : Bold
+- <i> : Italic
+- <u> : Underline
+- <a> : Anchor
+- <img> : Image
+- <ul> : Unordered List
+- <ol> : Ordered List
+- <li> : List Item
+- <table> : Table
+- <tr> : Table Row
+- <td> : Table Data
+- <th> : Table Header
+- <form> : Form
+- <input> : Input
+- <select> : Select
+- <option> : Option
+- <textarea> : Textarea
+- <button> : Button
+- <div> : Div
+- <span> : Span
+
+[HTML Headings](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements)
 
 <!-- ## 🏁 Getting Started <a name = "getting_started"></a>
 
