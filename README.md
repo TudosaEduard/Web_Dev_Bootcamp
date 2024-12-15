@@ -58,33 +58,33 @@ What is HTML? : Hypertext Markup Language -> HTML is the standard markup languag
 
 ### HTML Tags : 
 
-- <p> : Paragraph
-- <h1> : Heading 1
-- <h2> : Heading 2
-- <h3> : Heading 3
-- <h4> : Heading 4
-- <h5> : Heading 5
-- <h6> : Heading 6
-- <b> : Bold
-- <i> : Italic
-- <u> : Underline
-- <a> : Anchor
-- <img> : Image
-- <ul> : Unordered List
-- <ol> : Ordered List
-- <li> : List Item
-- <table> : Table
-- <tr> : Table Row
-- <td> : Table Data
-- <th> : Table Header
-- <form> : Form
-- <input> : Input
-- <select> : Select
-- <option> : Option
-- <textarea> : Textarea
-- <button> : Button
-- <div> : Div
-- <span> : Span
+    - <p> : Paragraph
+    - <h1> : Heading 1
+    - <h2> : Heading 2
+    - <h3> : Heading 3
+    - <h4> : Heading 4
+    - <h5> : Heading 5
+    - <h6> : Heading 6
+    - <b> : Bold
+    - <i> : Italic
+    - <u> : Underline
+    - <a> : Anchor
+    - <img> : Image
+    - <ul> : Unordered List
+    - <ol> : Ordered List
+    - <li> : List Item
+    - <table> : Table
+    - <tr> : Table Row
+    - <td> : Table Data
+    - <th> : Table Header
+    - <form> : Form
+    - <input> : Input
+    - <select> : Select
+    - <option> : Option
+    - <textarea> : Textarea
+    - <button> : Button
+    - <div> : Div
+    - <span> : Span
 
 [HTML Headings](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements)
 
