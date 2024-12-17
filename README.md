@@ -98,9 +98,10 @@ What is HTML? : Hypertext Markup Language -> HTML is the standard markup languag
 
     !! Important: don't use the <br /> tag to delimit paragraphs, create a new <p> paragraph instead.
 
-### Useful links :
+## 📌 Resources <a name = "resorces"></a>
 
-- [HTML Headings](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements)
+- [DiffChecker](https://www.diffchecker.com/)
+- [HTML Reference](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 <!-- ## 🏁 Getting Started <a name = "getting_started"></a>
 
