@@ -96,6 +96,8 @@ What is HTML? : Hypertext Markup Language -> HTML is the standard markup languag
     - <br> : Break (!! correct writing is <br />)
     - <hr> : Horizontal Rule   
 
+    !! Important: don't use the <br /> tag to delimit paragraphs, create a new <p> paragraph instead.
+
 ### Useful links :
 
 - [HTML Headings](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements)
