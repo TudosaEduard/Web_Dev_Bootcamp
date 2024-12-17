@@ -89,11 +89,16 @@ What is HTML? : Hypertext Markup Language -> HTML is the standard markup languag
     - <button> : Button
     - <div> : Div
     - <span> : Span
-    - <header> : Header   
+    - <header> : Header
+
+### Void Tags :
+
+    - <br> : Break (!! correct writing is <br />)
+    - <hr> : Horizontal Rule   
 
 ### Useful links :
 
-[HTML Headings](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements)
+- [HTML Headings](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements)
 
 <!-- ## 🏁 Getting Started <a name = "getting_started"></a>
 
