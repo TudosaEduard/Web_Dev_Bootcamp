@@ -100,6 +100,7 @@ What is HTML? : Hypertext Markup Language -> HTML is the standard markup languag
 
 ## 📌 Resources <a name = "resorces"></a>
 
+- [Udemy Course](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 - [DiffChecker](https://www.diffchecker.com/)
 - [HTML Reference](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
