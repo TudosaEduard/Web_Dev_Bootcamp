@@ -72,11 +72,11 @@ What is HTML? : Hypertext Markup Language -> HTML is the standard markup languag
     - <b> : Bold
     - <i> : Italic
     - <u> : Underline
-    - <a> : Anchor
+    - <a> : Anchor (!! this needs an attribute)
     - <img> : Image
     - <ul> : Unordered List
     - <ol> : Ordered List
-    - <li> : List Item
+    - <li> : List Item (!! you can have other list items inside and be careful of identation)
     - <table> : Table
     - <tr> : Table Row
     - <td> : Table Data
@@ -97,6 +97,25 @@ What is HTML? : Hypertext Markup Language -> HTML is the standard markup languag
     - <hr> : Horizontal Rule   
 
     !! Important: don't use the <br /> tag to delimit paragraphs, create a new <p> paragraph instead.
+
+### Attributes :
+
+    - src : Source
+    - href : Hyperlink Reference
+    - target : Target
+    - rel : Relationship
+    - class : Class
+    - id : Identifier
+    - style : Style
+    - title : Title
+    - alt : Alternate
+    - width : Width
+    - height : Height
+    - colspan : Column Span
+    - rowspan : Row Span
+    - draggable : Draggable
+    - dropdown : Dropdown
+    - start : Start
 
 ## 📌 Resources <a name = "resorces"></a>
 
