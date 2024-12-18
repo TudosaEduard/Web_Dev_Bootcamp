@@ -73,7 +73,6 @@ What is HTML? : Hypertext Markup Language -> HTML is the standard markup languag
     - <i> : Italic
     - <u> : Underline
     - <a> : Anchor (!! this needs an attribute)
-    - <img> : Image
     - <ul> : Unordered List
     - <ol> : Ordered List
     - <li> : List Item (!! you can have other list items inside and be careful of identation)
@@ -90,11 +89,16 @@ What is HTML? : Hypertext Markup Language -> HTML is the standard markup languag
     - <div> : Div
     - <span> : Span
     - <header> : Header
+    - <footer> : Footer
+    - <main> : Main
+    - <section> : Section
+    - <article> : Article
 
 ### Void Tags :
 
     - <br> : Break (!! correct writing is <br />)
     - <hr> : Horizontal Rule   
+    - <img> : Image (!! need a src attribute and alt attribute)
 
     !! Important: don't use the <br /> tag to delimit paragraphs, create a new <p> paragraph instead.
 
