@@ -1,14 +1,5 @@
 <h3 align="center">Web Developer Bootcamp 2024</h3>
 
-<!-- <div align="center">
-
-[![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
-
-</div> -->
-
 ---
 
 <p align="center"> The Complete 2024 Web Development Bootcamp (Beginner to Advance)
@@ -65,7 +56,7 @@ What is HTML? : Hypertext Markup Language -> HTML is the standard markup languag
 
 ### Work folder:
 
-- [Here!](exercises/html/)
+- [Here!](exercises)
 
 ### HTML Tags : 
 
@@ -100,6 +91,7 @@ What is HTML? : Hypertext Markup Language -> HTML is the standard markup languag
     - <main> : Main
     - <section> : Section
     - <article> : Article
+    - <strong> : Strong (!! same as bold)
 
 ### Void Tags :
 
@@ -127,6 +119,16 @@ What is HTML? : Hypertext Markup Language -> HTML is the standard markup languag
     - draggable : Draggable
     - dropdown : Dropdown
     - start : Start
+
+### Boilerplate:
+
+    - Doctype: <!DOCTYPE html>
+    - Language: <html lang="en">
+    - Head: <head> (!! here goes the metadata)
+    - Charset: <meta charset="UTF-8"> (!! this is required in header)
+    - Title: <title>My Webpage</title> (!! this is required in header)
+    - Body: <body> (!! here goes the content)
+    
 
 ## 📌 Resources <a name = "resorces"></a>
 
