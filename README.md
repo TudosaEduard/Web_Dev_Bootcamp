@@ -43,14 +43,21 @@
 
 <img src="resources/images/internet_service.png" alt="Internet data flow">
 
-### 2. Websites
+### 2. Webpages
+    * What is a webpage? : A collection of HTML, CSS, and JavaScript files that are made available on the internet.
+    * An project can have multiple webpages.
+
+### 3. Websites
     * What is a website? : A collection of web pages and resources that are made available on the internet.
-    * HTML + CSS + JavaScript
     * HTML : is responsible for the structure of the website.
     * CSS : is responsible for the style of the website.
     * JavaScript : is responsible for the behavior of the website.
 
 <img src="resources/images/website_structure.png" alt="Website Structure">
+
+### 4.File paths
+    * Relative paths : paths that start from the current directory. (../, ./)
+    * Absolute paths : paths that start from the root directory.
 
 ## 📌 HTML <a name = "html"></a>
 
