@@ -132,7 +132,7 @@ What is HTML? : Hypertext Markup Language -> HTML is the standard markup languag
     
 ## 📌 Capstone Projects <a name = "capstone"></a>
 
-    - [Project_1 (Online Resume)]: (capstone/online_resume)
+- Project 1: [Online Resume](capstone/online_resume)
 
 ## 📌 Resources <a name = "resorces"></a>
 
