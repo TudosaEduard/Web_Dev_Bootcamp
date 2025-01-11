@@ -22,6 +22,7 @@
 - [Security](#security)
 - [React](#react)
 - [DApps](#dapps)
+- [Capstone Projects](#capstone)
 - [Resources](#resources)
 
 
@@ -129,6 +130,9 @@ What is HTML? : Hypertext Markup Language -> HTML is the standard markup languag
     - Title: <title>My Webpage</title> (!! this is required in header)
     - Body: <body> (!! here goes the content)
     
+## 📌 Capstone Projects <a name = "capstone"></a>
+
+    - [Project_1 (Online Resume)]: (capstone/online_resume)
 
 ## 📌 Resources <a name = "resorces"></a>
 
