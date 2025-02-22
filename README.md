@@ -133,8 +133,9 @@ What is HTML? : Hypertext Markup Language -> HTML is the standard markup languag
 ## 📌 CSS <a name = "css"></a>
 
     * What is CSS? : Cascading Style Sheets -> CSS is a style sheet language used for describing the presentation of a document written in a markup language such as HTML.
-    * You need to add a link to the CSS file in the head section of the HTML file using style tags.
-    * You can have Inline CSS or External CSS. The Inline CSS usually is used for styling a single element, while the External CSS is used for styling multiple elements at once.
+    * You need to add a link to the CSS file in the head section of the HTML file using style tags and the link tag with the href attribute.
+    * You can have Inline CSS, Internal CSS and External CSS. The Inline CSS usually is used for styling a single element, the Internal CSS is used for styling a single page and the External CSS is used for styling the entire website with multiple pages.
+    * The link tag has the rel attribute with the value of stylesheet and the href attribute with the value of the path to the CSS file.
 
 ### Work folder:
 
