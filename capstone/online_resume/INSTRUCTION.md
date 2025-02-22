@@ -1,6 +1,6 @@
-### Instructions for Capstone Project 1 - Online Resume
+## Instructions for Capstone Project 1 - Online Resume
 
-## Project Specifications
+### Project Specifications
 
 1. Create an HTML file named index.html.
 2. Use the <!DOCTYPE html> declaration at the beginning of the file to indicate that it's an HTML document.
@@ -17,7 +17,7 @@
 8. Add a footer element with your name and any copyright information or other disclaimers. (Hint: use the MDN docs for things you don't know how to do: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/footer)
 9. Save the index.html file and open it in a web browser to ensure that it displays correctly.
 
-## Example
+### Example
 
 https://appbrewery.github.io/capstone-1-example
 
