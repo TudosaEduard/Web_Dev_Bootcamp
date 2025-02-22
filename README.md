@@ -57,7 +57,7 @@ What is HTML? : Hypertext Markup Language -> HTML is the standard markup languag
 
 ### Work folder:
 
-- [Here!](exercises)
+- [Here!](exercises/html)
 
 ### HTML Tags : 
 
@@ -129,6 +129,16 @@ What is HTML? : Hypertext Markup Language -> HTML is the standard markup languag
     - Charset: <meta charset="UTF-8"> (!! this is required in header)
     - Title: <title>My Webpage</title> (!! this is required in header)
     - Body: <body> (!! here goes the content)
+
+## 📌 CSS <a name = "css"></a>
+
+    * What is CSS? : Cascading Style Sheets -> CSS is a style sheet language used for describing the presentation of a document written in a markup language such as HTML.
+    * You need to add a link to the CSS file in the head section of the HTML file using style tags.
+    * You can have Inline CSS or External CSS. The Inline CSS usually is used for styling a single element, while the External CSS is used for styling multiple elements at once.
+
+### Work folder:
+
+- [Here!](exercises/css)
     
 ## 📌 Capstone Projects <a name = "capstone"></a>
 
