@@ -137,6 +137,14 @@ What is HTML? : Hypertext Markup Language -> HTML is the standard markup languag
     * You can have Inline CSS, Internal CSS and External CSS. The Inline CSS usually is used for styling a single element, the Internal CSS is used for styling a single page and the External CSS is used for styling the entire website with multiple pages.
     * The link tag has the rel attribute with the value of stylesheet and the href attribute with the value of the path to the CSS file.
 
+### CSS Selectors:
+
+    - * : universal selector (applies to all elements)
+    - . : class selector (applies to all elements with the class attribute)
+    - # : id selector (applies to the element with the id attribute)
+    - tag : element selector (applies to all elements with the specified tag name)
+    - attribute : attribute selector (applies to all elements with the specified attribute) : [example](https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors)
+
 ### Work folder:
 
 - [Here!](exercises/css)
