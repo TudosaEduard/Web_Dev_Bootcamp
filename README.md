@@ -145,6 +145,45 @@ What is HTML? : Hypertext Markup Language -> HTML is the standard markup languag
     - tag : element selector (applies to all elements with the specified tag name)
     - attribute : attribute selector (applies to all elements with the specified attribute) : [example](https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors)
 
+### Color Properties:
+
+    - color : sets the color of the text
+    - background-color : sets the color of the background
+    - border-color : sets the color of the border
+
+### Font size:
+
+    - 1 px = 1/96th of 1 inch = 0.26 mm
+    - 1 pt = 1/72nd of 1 inch = 0.35 mm
+    - 1 em = 100 % of the font size of the parent element (example if the font size of the parent element is 16px, 1em = 16px)
+    - 1 rem = 100 % of the font size of the root element
+
+### Font weight:
+
+    - normal (keyword)
+    - bold (keyword)
+    - bolder (relative to the parent element) 
+    - lighter (relative to the parent element)
+    - number (100-900)
+
+### Font family (" " if you have more words in the font name like "Times New Roman"):
+
+    - serif
+    - sans-serif
+    - cursive
+    - monospace
+    - etc.
+
+### Text align:
+
+    - left
+    - center
+    - right
+    - justify
+    - start
+    - end
+
+
 ### Work folder:
 
 - [Here!](exercises/css)
@@ -157,7 +196,11 @@ What is HTML? : Hypertext Markup Language -> HTML is the standard markup languag
 
 - [Udemy Course](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 - [DiffChecker](https://www.diffchecker.com/)
-- [HTML Reference](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [RGB Mixer](https://www.csfieldguide.org.nz/en/interactives/rgb-mixer/)
+- [Color Hunt](https://colorhunt.co/)
+- [Text Fonts](https://fonts.google.com/)
+- [HTML Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/)
+- [CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/)
 
 <!-- ## 🏁 Getting Started <a name = "getting_started"></a>
 
