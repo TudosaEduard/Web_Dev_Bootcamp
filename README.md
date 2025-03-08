@@ -183,6 +183,20 @@ What is HTML? : Hypertext Markup Language -> HTML is the standard markup languag
     - start
     - end
 
+### Inspecting CSS:
+
+    - Chrome : ctrl + shift + i
+    - Firefox : ctrl + shift + k
+    - Edge : ctrl + shift + i
+    - Inspect button (right click on the element)
+
+### Box model:
+
+    - content (width and height)
+    - padding (space between the content and the border)
+    - border (space between the padding and the margin, syntax: border-width border-style border-color)
+    - margin (space between the border and the outside of the element)
+    - container (div)
 
 ### Work folder:
 
