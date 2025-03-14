@@ -137,6 +137,10 @@ What is HTML? : Hypertext Markup Language -> HTML is the standard markup languag
     * You can have Inline CSS, Internal CSS and External CSS. The Inline CSS usually is used for styling a single element, the Internal CSS is used for styling a single page and the External CSS is used for styling the entire website with multiple pages.
     * The link tag has the rel attribute with the value of stylesheet and the href attribute with the value of the path to the CSS file.
 
+### Work folder:
+
+- [Here!](exercises/css)
+
 ### CSS Selectors:
 
     - * : universal selector (applies to all elements)
@@ -198,10 +202,29 @@ What is HTML? : Hypertext Markup Language -> HTML is the standard markup languag
     - margin (space between the border and the outside of the element)
     - container (div)
 
-### Work folder:
+### Cascade priority:
 
-- [Here!](exercises/css)
-    
+    - Inline styles
+    - Internal styles
+    - External styles (id selector, attribute selector, class selector, element selector)
+    - For CSS rule: !important = the highest priority
+
+### Combinators selectors:
+
+    - pseudo class (,) 
+    - child selector (>)
+    - descendant selector (space)
+    - chain selector (no space)
+
+### Positioning:
+
+    - static (default)
+    - relative (relative to the normal flow of the document)
+    - absolute (relative to the nearest positioned ancestor)
+    - fixed (relative to the viewport, viewport is the visible area of the browser window)
+    - sticky (relative to the nearest positioned ancestor, but the position is fixed even when the element is not in the viewport)
+    - z-index (controls the stacking order of positioned elements)
+
 ## 📌 Capstone Projects <a name = "capstone"></a>
 
 - Project 1: [Online Resume](capstone/online_resume)
